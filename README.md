@@ -169,6 +169,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Communication & Writing
 
+- [anchor](https://github.com/mason131928/anchor-skill) - Keeps a brainstorming or decision chat on the original problem: flags drift, holds its position under pushback, ends with a decision, and hands over a fresh-start brief when the thread wanders. Includes evals. *By [@mason131928](https://github.com/mason131928)*
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
